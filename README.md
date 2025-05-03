@@ -40,3 +40,5 @@ I'm a passionate self-taught developer from Pakistan 🇵🇰 who started his de
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/SaadRajpoot666/Saad.Dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadRajpoot666&repo=Saad.Dev&title_color=ffffff&text_color=facc15&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SaadRajpoot666/KS-TRADERS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SaadRajpoot666&repo=KS-TRADERS&title_color=ffffff&text_color=facc15&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+#tags: #React #MERN #OpenSource #AI #Python #BeginnerFriendly
+
